@@ -1,0 +1,20 @@
+#MyEclipse Hibernate Properties
+#Thu Mar 08 09:22:58 CST 2018
+genBasicCompId=false
+sessionFactoryName=com.qhit.lh.gr3.merida.exam.common.utils.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=true
+reStrategyClass=
+detectO2O=true
+springDaoFile=
+useJavaTypes=true
+keyGenerator=native
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=/AKExamOnline/hibernate.reveng.xml
+configFile=/AKExamOnline/src/hibernate.cfg.xml
+createConfigFile=true
